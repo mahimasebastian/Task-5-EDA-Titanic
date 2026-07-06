@@ -125,17 +125,27 @@ Open **Titanic_EDA.ipynb** and run all cells.
 
 ---
 
-## 📈 Sample Visualizations
+## 📊 Visualizations
 
-You can add screenshots of your plots inside the **images/** folder.
+### Correlation Heatmap
 
-Example:
+![Correlation Heatmap](images/heatmap.png)
 
-```markdown
-![Heatmap](images/heatmap.png)
+### Pairplot
 
 ![Pairplot](images/pairplot.png)
-```
+
+### Histogram
+
+![Histogram](images/histogram.png)
+
+### Boxplot
+
+![Boxplot](images/boxplot.png)
+
+### Scatter Plot
+
+![Scatter Plot](images/scatterplot.png)
 
 ---
 
