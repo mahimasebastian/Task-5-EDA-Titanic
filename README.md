@@ -171,7 +171,7 @@ This project helped in understanding:
 
 Data Analyst Intern
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/mahimasebastian
 
 ---
 
