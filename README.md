@@ -167,7 +167,7 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mahima Sebastian**
 
 Data Analyst Intern
 
