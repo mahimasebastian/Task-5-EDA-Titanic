@@ -137,7 +137,7 @@ Open **Titanic_EDA.ipynb** and run all cells.
 
 ### Histogram
 
-![Histogram](images/histogram.png)
+![Histogram](images/Histogram.png)
 
 ### Boxplot
 
